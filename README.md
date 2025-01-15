@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YohannesGetahunSimegn
 - 👀 I’m interested in programming 
-- 🌱 I'm a full stack developer with MERN.
+- 🌱 I'm a full stack developer.
 - 
 - 📫 reach me via email ygetahun37@gmail.com
 
