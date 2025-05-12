@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YohannesGetahunSimegn
-- 👀 I’m interested in programming 
-- 🌱 I'm a full stack developer.
+- 👀 I’m interested in AI/programming 
+- 🌱 I'm a full stack developer/ AI Engineer.
 - 
 - 📫 reach me via email ygetahun37@gmail.com
 
