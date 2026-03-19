@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,postgres,git,linux, llamaindex" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,postgres,git,linux" />
 </p>
 
 ---
