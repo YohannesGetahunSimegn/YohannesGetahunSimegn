@@ -32,18 +32,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YohannesGetahunSimegn&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohannesGetahunSimegn&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=YohannesGetahunSimegn&theme=radical" />
 </p>
 
 ---
