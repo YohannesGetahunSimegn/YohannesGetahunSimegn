@@ -1,23 +1,44 @@
-- <h1 align="center">Hi 👋, I'm Yohannes</h1>
-- <h3 align="center">🌱 I'm a Full stack developer | AI Engineer.</h3>
-- 📫 reach me via email ygetahun37@gmail.com
+<h1 align="center">Hi 👋, I'm Yohannes</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Engineer | DevOps Enthusiast</h3>
 
+<p align="center">
+📫 Reach me: ygetahun37@gmail.com
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🔭 Building an **AI-powered tutoring & RAG platform**
 - 🤟 Working on **Sign Language Translation & Accessibility AI**
-- ⚡ Focused on **scalable backend systems + LLM infrastructure**
-- 🧠 Learning deeply: **RAG, vLLM, embeddings, system design**
-- 💬 Ask me about **FastAPI, React, AI systems, vector databases**
+- 🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia  
+- ⚡ Focused on **scalable backend systems, LLM infrastructure & DevOps**
+- 🧠 Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
+- 💬 Ask me about **FastAPI, React, AI systems, deployment, and vector databases**
+
+---
+
+## 💼 Current Work
+- 🧠 Developing an **Agentic AI Assistant** using **RAG architecture**
+- 📡 Integrating **technical documentation + Network Management System (NMS) data**
+- 💬 Enabling **conversational querying for internal teams**
+- ⚡ Improving **troubleshooting speed & knowledge retrieval efficiency**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,docker,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,postgres,git,linux" />
 </p>
+
+---
+
+## ⚙️ DevOps & Infrastructure
+- Docker & containerized deployments
+- CI/CD pipelines (GitHub Actions)
+- Scalable inference (vLLM, RunPod)
+- API performance & load handling
+- Linux server management
+- System design for high-throughput AI systems
 
 ---
 
@@ -27,20 +48,17 @@
 - Embeddings (BGE, MiniLM)
 - LLM Deployment (Mistral, vLLM, Ollama)
 - Document Processing Pipelines
+- Agentic workflows & tool-using AI systems
 
 ---
 
 ## 📊 GitHub Stats
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YohannesGetahunSimegn&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohannesGetahunSimegn&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=YohannesGetahunSimegn" />
 </p>
 
 ---
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YohannesGetahunSimegn&theme=radical" />
@@ -49,43 +67,43 @@
 ---
 
 ## 🚀 Featured Projects
+
 ### 📚 AI Tutor (RAG System)
-- Chat with Ethiopian high school textbooks
-- Unit-based retrieval + explanations
-- Built with FastAPI + Vector DB + LLM
+- Chat with Ethiopian high school textbooks  
+- Unit-based retrieval + explanations  
+- Built with FastAPI + Vector DB + LLM  
 
 ### 🤟 Sign Language AI
-- Text → Gloss → Gesture pipeline
-- Accessibility-focused AI system
-- Future: Avatar-based animation
+- Text → Gloss → Gesture pipeline  
+- Accessibility-focused AI system  
+- Future: Avatar-based animation  
 
 ### ⚙️ LLM Infrastructure
-- High-throughput inference (vLLM / RunPod)
-- Batch + queue processing
-- Cost-optimized deployment
+- High-throughput inference (vLLM / RunPod)  
+- Batch + queue processing  
+- Cost-optimized deployment  
 
 ---
 
 ## 🌍 Vision
-Building **affordable AI education systems** for Africa  
-→ scalable, accessible, and impactful
+Building **affordable, scalable AI education systems for Africa**  
+→ accessible, intelligent, and impactful  
 
 ---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+- 📧 Email: ygetahun37@gmail.com
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YohannesGetahunSimegn&color=blue" />
 </p>
 
-
+---
 
 <!---
-YohannesGetahunSimegn/YohannesGetahunSimegn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+YohannesGetahunSimegn/YohannesGetahunSimegn is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
