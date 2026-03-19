@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohannes</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | DevOps Enthusiast</h3>
 
 <p align="center">
 📫 Reach me: ygetahun37@gmail.com
@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Building an **AI-powered tutoring & RAG platform**
-- 🤟 Working on **Sign Language Translation & Accessibility AI**
-- 🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia  
+##  About Me
+-🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia
+-  🔭 Building an **AI-powered tutoring & RAG platform**
+- 🤟 Working on **Sign Language Translation & Accessibility AI** 
 - ⚡ Focused on **scalable backend systems, LLM infrastructure & DevOps**
 - 🧠 Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
-- 💬 Ask me about **FastAPI, React, AI systems, deployment, and vector databases**
+- 💬 Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
 
 ---
 
@@ -52,20 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YohannesGetahunSimegn" />
-</p>
-
----
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YohannesGetahunSimegn&theme=radical" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 📚 AI Tutor (RAG System)
@@ -101,9 +87,3 @@ Building **affordable, scalable AI education systems for Africa**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YohannesGetahunSimegn&color=blue" />
 </p>
-
----
-
-<!---
-YohannesGetahunSimegn/YohannesGetahunSimegn is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
