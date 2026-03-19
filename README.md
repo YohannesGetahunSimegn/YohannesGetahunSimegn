@@ -8,13 +8,12 @@
 ---
 
 ##  About Me
-- 🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia
+- Currently developing an **agentic AI assistant (RAG-based)** for internal systems at **Safaricom** Ethiopia
 - Building an **AI-powered tutoring & RAG platform**
 - Working on **Sign Language Translation & Accessibility AI** 
 - Focused on **scalable backend systems, LLM infrastructure & DevOps**
 - Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
 - Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
-
 ---
 
 ## 💼 Current Work
