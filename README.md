@@ -8,12 +8,12 @@
 ---
 
 ##  About Me
--🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia
--  🔭 Building an **AI-powered tutoring & RAG platform**
-- 🤟 Working on **Sign Language Translation & Accessibility AI** 
-- ⚡ Focused on **scalable backend systems, LLM infrastructure & DevOps**
-- 🧠 Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
-- 💬 Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
+- 🏢 Currently developing an **agentic AI assistant (RAG-based)** for internal systems at Safaricom Ethiopia
+- Building an **AI-powered tutoring & RAG platform**
+- Working on **Sign Language Translation & Accessibility AI** 
+- Focused on **scalable backend systems, LLM infrastructure & DevOps**
+- Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
+- Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,postgres,git,linux, llamaindex" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📚 AI Tutor (RAG System)
 - Chat with Ethiopian high school textbooks  
@@ -78,7 +78,7 @@ Building **affordable, scalable AI education systems for Africa**
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
+- 💼 LinkedIn: https://www.linkedin.com/in/gruxyohag
 - 📧 Email: ygetahun37@gmail.com
 
 ---
