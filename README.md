@@ -32,26 +32,6 @@
 
 ---
 
-## ⚙️ DevOps & Infrastructure
-- Docker & containerized deployments
-- CI/CD pipelines (GitHub Actions)
-- Scalable inference (vLLM, RunPod)
-- API performance & load handling
-- Linux server management
-- System design for high-throughput AI systems
-
----
-
-## 🧠 AI / ML Focus
-- RAG (Retrieval-Augmented Generation)
-- Vector Databases (FAISS, Chroma)
-- Embeddings (BGE, MiniLM)
-- LLM Deployment (Mistral, vLLM, Ollama)
-- Document Processing Pipelines
-- Agentic workflows & tool-using AI systems
-
----
-
 ## Featured Projects
 
 ### 📚 AI Tutor (RAG System)
@@ -59,15 +39,10 @@
 - Unit-based retrieval + explanations  
 - Built with FastAPI + Vector DB + LLM  
 
-### 🤟 Sign Language AI
-- Text → Gloss → Gesture pipeline  
-- Accessibility-focused AI system  
-- Future: Avatar-based animation  
-
-### ⚙️ LLM Infrastructure
-- High-throughput inference (vLLM / RunPod)  
-- Batch + queue processing  
-- Cost-optimized deployment  
+### 🤟 SignRead AI
+- Camera → Hand → Text – Real-time ASL fingerspelling 
+- Accessibility-first – Built for signers to communicate with non-signers via text and speech
+- Extensible – EthSL Trainer for custom sign data and future support for other sign languages  
 
 ---
 
@@ -83,7 +58,3 @@ Building **affordable, scalable AI education systems for Africa**
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YohannesGetahunSimegn&color=blue" />
-</p>
