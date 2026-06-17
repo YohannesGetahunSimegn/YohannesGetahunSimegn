@@ -33,15 +33,15 @@
 
 ## Featured Projects
 
-### 📚 AI Tutor (RAG System)
-- Chat with Ethiopian high school textbooks  
-- Unit-based retrieval + explanations  
-- Built with FastAPI + Vector DB + LLM  
-
 ### 🤟 SignRead AI (https://signreadai.vercel.app)
 - Camera → Hand → Text – Real-time ASL fingerspelling 
 - Accessibility-first – Built for signers to communicate with non-signers via text and speech
-- Extensible – EthSL Trainer for custom sign data and future support for other sign languages  
+- Extensible – EthSL Trainer for custom sign data and future support for other sign languages   
+
+### 📚 AI Tutor (RAG System)
+- Chat with Ethiopian high school textbooks  
+- Unit-based retrieval + explanations  
+- Built with FastAPI + Vector DB + LLM 
 
 ---
 
