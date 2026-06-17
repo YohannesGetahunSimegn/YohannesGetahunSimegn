@@ -12,8 +12,7 @@
 - Working on **Sign Language Translation & Accessibility AI** 
 - Building an **AI-powered tutoring platform** 
 - Focused on **scalable backend systems, LLM infrastructure & DevOps**
-- Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
-- Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
+- Deep diving into **NL-SQL,RAG, LLM, embeddings, system design, and distributed systems**
 ---
 
 ## 💼 Current Work
