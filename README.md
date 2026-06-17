@@ -46,7 +46,7 @@
 ---
 
 ## 🌍 Vision
-Building **affordable, scalable AI education systems for Africa**  
+Building **affordable, scalable AI education systems**  
 → accessible, intelligent, and impactful  
 
 ---
