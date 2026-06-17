@@ -10,7 +10,7 @@
 ##  About Me
 - Currently developing an **agentic AI assistant NL-SQL (RAG-based)** for internal systems at **Safaricom** Ethiopia
 - Working on **Sign Language Translation & Accessibility AI** 
-- Building an **AI-powered tutoring & RAG platform** 
+- Building an **AI-powered tutoring platform** 
 - Focused on **scalable backend systems, LLM infrastructure & DevOps**
 - Deep diving into **RAG, vLLM, embeddings, system design, and distributed systems**
 - Ask me about **FastAPI, React, Nextjs, nodejs, AI systems, deployment, and vector databases**
